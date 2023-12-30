@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+
+    color: blueviolet;
+}
+
+section{
+
+    transition:  all 0.5s;
+}
+#html{
+    width: 100%;
+    height: 500px;
+    background-color: blueviolet;
+    transition: width 2s,height 2s;
+    border: 2px solid black;
+    margin: 20px 20px;
+    font-weight: bold;
+    color: black;
+    
+}
+#css{
+    
+
+    width: 100%;
+    height: 500px;
+    background-color: chocolate;
+    transition: width 2s,height 2s;
+    border: 2px solid black;
+   margin: 20px 20px;
+   font-weight: bold;
+   color: black;
+       
+}
+#bootstrap{
+    
+
+    width: 100%;
+    height: 500px;
+    background-color: rgb(214, 149, 65);
+    transition: width 4s,height 4s;
+    border: 2px solid black;
+    margin: 20px 20px;
+    font-weight: bold;
+    color: black;
+    
+}
+#java{
+    
+
+    width: 100%;
+    height: 500px;
+    background-color: yellowgreen;
+    transition: width 2s,height 2s;
+    border: 2px solid black;
+    margin: 20px 20px;
+    font-weight: bold;
+    color: black;
+    
+}   
